@@ -1,14 +1,21 @@
 # KOSMOS
 
-**An inter-municipal exchange format curated by the City of Brandis.**
+**An open record of municipal digital convergence, curated by the City of
+Brandis.**
 
-KOSMOS is hosted by the City of Brandis (Saxony, Germany) and intentionally
-established as a neutral platform — not as a Brandis-branded initiative. Its
-purpose is to enable open, vendor-neutral exchange among small urban authorities
-and municipal software providers.
+KOSMOS is less an event than a public workshop report: it documents the path
+from isolated IT solutions toward an integrated municipal digital platform —
+open, traceable, and in exchange with partners across the region. Think of it as
+a visible window into an ongoing transformation process rather than a committee
+or a brand.
 
-Trägerschaft (institutional sponsorship) lies with the Saxon municipality of
-[Brandis](https://stadt-brandis.de/).
+It is hosted by the City of Brandis (Saxony, Germany) and intentionally kept
+neutral — a shared space for small urban authorities and municipal software
+providers, not a Brandis-branded initiative.
+
+Hosting and Trägerschaft (institutional sponsorship) lie with the Saxon
+municipality of [Brandis](https://stadt-brandis.de/) — without any steering
+committee or institutional apparatus on top.
 
 ## Focus
 
@@ -18,18 +25,28 @@ Trägerschaft (institutional sponsorship) lies with the Saxon municipality of
 - **Integration over lock-in** — providing pathways for commercial providers to
   integrate into public infrastructure rather than impose proprietary lock-ins.
 
-## Why neutral?
+## What KOSMOS is — and isn't
 
-KOSMOS is deliberately not a single municipality's brand. Brandis acts as host
-and curator, but the platform belongs to its participants. This neutrality is
-what allows small urban authorities and competing software vendors to
-collaborate on shared infrastructure on equal terms.
+KOSMOS is deliberately:
+
+- **not a Brandis event or brand** — neutrality is the point; Brandis hosts, but
+  does not own.
+- **not an institutional construction** — there is no steering committee and no
+  governing body sitting on top of it.
+- **a practice-driven format** — it grows out of real convergence work, not out
+  of a mandate.
+- **clearly addressed** — to small urban authorities and to software providers
+  who want to converge with open infrastructure rather than against it.
+
+Brandis acts as host and curator; the work and its results belong to the
+participants.
 
 ## Projects
 
-Beyond exchange, KOSMOS is where concrete projects are initiated — all guided by
-the goal of converging a fragmented municipal digital landscape into a coherent
-one. These typically take one of three forms:
+The primary thing is the convergence work: bringing a fragmented municipal
+digital landscape into a coherent one. KOSMOS is the open form of that work —
+what makes the resulting components shareable beyond a single municipality. In
+practice they take one of three forms:
 
 - **Adapters** — connecting existing proprietary software to open municipal
   infrastructure.
@@ -87,3 +104,4 @@ collaboration, please reach out via the contact channels of the host, the
 ---
 
 *KOSMOS — open, vendor-neutral municipal infrastructure.*
+
